@@ -73,3 +73,11 @@
   from, to { border-color: transparent }
   50% { border-color: black; }
 }
+
+#dashicon {
+  color: #ef5350;
+}
+
+#dashicon:hover {
+  color: #2196f3;
+}
