@@ -37,7 +37,7 @@
 }
 
 #aboutsection {
-  line-height: 200px;
+  line-height: 100px;
   background-color: #fafafa;
 }
 
@@ -75,7 +75,7 @@
 }
 
 #dashicon {
-  color: #ef5350;
+  color: black;
 }
 
 #dashicon:hover {
