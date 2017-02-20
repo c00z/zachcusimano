@@ -2,10 +2,7 @@
   border: black 1px solid;
 }*/
 
-.navbar {
-  background-color: none;
-  color: black;
-}
+
 
 
 #parallax {
@@ -15,17 +12,17 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  top: 0px;
+
 }
 
 #slogan {
   font-size: 65px;
   text-align: center;
   /*vertical-align: left;*/
-  /*line-height: 250px;*/
   color: black;
   font-family: 'Arvo', serif;
   font-weight: bold;
-  /*bottom: 0%;*/
 }
 
 #slogan2 {
